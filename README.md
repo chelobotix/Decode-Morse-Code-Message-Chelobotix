@@ -1,20 +1,14 @@
 <a name="readme-top"></a>
-
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/65084923/227249151-5c9fda8d-8ab8-41e4-945d-ebd4b36a5071.jpg" alt="logo" width="350"  height="auto" />
-  <br/>
-  <img src="https://user-images.githubusercontent.com/65084923/220199943-ce6cd5da-d55e-4149-a0ac-8c588216d81f.png" alt="logo" width="200"  height="auto" />
+  <img src="https://user-images.githubusercontent.com/65084923/231513445-05c342c5-a239-46b8-bcb8-78d3cd89421d.png" alt="logo" width="100"  height="auto" />
+  <img src="https://user-images.githubusercontent.com/65084923/231513552-358a0a7b-a152-4f5b-806e-c8a09f2c269b.png" alt="logo" width="100"  height="auto" />
   <br/>
   <img src="https://user-images.githubusercontent.com/65084923/220200035-01fa5e08-af6a-495b-b597-55157a2b7d95.gif" alt="logo" />
   <br/>
 
   <h3><b>Decode a Morse Code Message App</b></h3>
   <h3><b>Decode a Morse Code - Ruby Microverse Project Module 4</b></h3>
-
-  <img src="https://user-images.githubusercontent.com/65084923/227247099-f4c5cecc-9b37-427e-8222-e98b8382823d.jpg" alt="logo" width="200"  height="auto" />
-  <img src="https://user-images.githubusercontent.com/65084923/227248276-278e6f39-dc77-4a65-b1f1-0368ea35a7fb.jpg" alt="logo" width="200"  height="auto" />
-  <img src="https://user-images.githubusercontent.com/65084923/227248445-b3c77feb-9ffa-4362-8dd1-35a6894dfecb.jpg" alt="logo" width="200"  height="auto" />
 
 </div>
 
